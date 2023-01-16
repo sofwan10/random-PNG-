@@ -16,4 +16,5 @@
 
 ## Example of my website
 - http://sofone10.pythonanywhere.com/
-- So, I deployed in pythonanywhere by anaconda Cloud to make it live
+- So, I deployed in pythonanywhere by anaconda Cloud to make it live.
+- You guys can refresh each time to see any random crypto image generated.
