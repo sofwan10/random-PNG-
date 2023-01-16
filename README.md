@@ -13,3 +13,7 @@
 - The index.html file contains the HTML code that will be displayed on the page when the user makes a request. It uses the img tag to display the image. The url_for function is used to generate the URL for the image file, so that the image will be served from the static folder.
 - The app.py file contains the server code that handles requests, selects a random image from the static folder, and renders the template. The code also includes error handling for the case when the static folder is empty or no PNG files are present in the folder.
 - To run this project, you'll need to have Python and Flask installed on your machine. Then, you can start the server by running the app.py file, and make a request to http://localhost:5000/ in your browser to see the random image.
+
+## Example of my website
+- http://sofone10.pythonanywhere.com/
+- So, I deployed in pythonanywhere by anaconda Cloud to make it live
