@@ -5,9 +5,9 @@
     templates/
         index.html
     static/
-        your_image1.png
-        your_image2.png
-        your_image3.png
+        crypto1.png
+        crypto2.png
+        crypto3.png
     app.py
 ```
 - The index.html file contains the HTML code that will be displayed on the page when the user makes a request. It uses the img tag to display the image. The url_for function is used to generate the URL for the image file, so that the image will be served from the static folder.
